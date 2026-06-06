@@ -31,9 +31,6 @@ streamlit run app.py
 
 
 
- 📸 Screenshot
-
-(Add your screenshot here)
 
 
  Project Description
