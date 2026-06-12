@@ -1,10 +1,10 @@
-🚀 AI Resume Analyzer
+ AI Resume Analyzer
 
 This project analyzes resumes using NLP and Machine Learning to extract skills and match them with job roles.
 
 
 
-🔥 Features
+ Features
 - Resume parsing (PDF)
 - Skill extraction using spaCy
 - Job matching using TF-IDF & Cosine Similarity
@@ -12,7 +12,7 @@ This project analyzes resumes using NLP and Machine Learning to extract skills a
 - Streamlit web application
 - Confidence score and explanation
 
- 🛠 Tech Stack
+ Tech Stack
 - Python
 - spaCy
 - Scikit-learn
@@ -21,7 +21,7 @@ This project analyzes resumes using NLP and Machine Learning to extract skills a
 - PyPDF2
 
 
-▶️ How to Run
+How to Run
 
 1. Install dependencies:
 pip install -r requirements.txt
